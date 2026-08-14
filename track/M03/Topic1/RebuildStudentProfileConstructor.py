@@ -1,3 +1,4 @@
+
 class StudentProfile:
     def __init__(self, student_id, name, course, experience, skills):
         # Store all received values as instance attributes
